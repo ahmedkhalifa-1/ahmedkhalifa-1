@@ -8,14 +8,13 @@ Cybersecurity Enthusiast | AI Engineer | SOC Researcher
 
 ## 🚀 About Me
 
-- 🔐 Passionate about Cybersecurity
+- 🔐 Cybersecurity Researcher & Security Builder
 - 🤖 Building AI Security Tools
 - 🧠 Interested in UEBA & Threat Detection
 - 🐧 Linux User
 - 📊 AI Trading Bot Developer
-- <p align="center">
-⚡ "Think Like an Attacker. Defend Like an Engineer."
-</p>
+- ⚡"Think Like an Attacker. Defend Like an Engineer."
+
 ---
 
 ## 🛠 Skills
