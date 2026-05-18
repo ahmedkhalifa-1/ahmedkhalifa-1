@@ -8,7 +8,7 @@ Cybersecurity Enthusiast | AI Engineer | SOC Researcher
 
 ## 🚀 About Me
 
-- 🔐 Cybersecurity Researcher & Security Builder
+- 🔐 Cybersecurity Engineer & Security Builder
 - 🤖 Building AI Security Tools
 - 🧠 Interested in UEBA & Threat Detection
 - 🐧 Linux User
